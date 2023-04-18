@@ -28,4 +28,4 @@ In the dataset , we annotated the following properties(the properties are indica
 5) eye state[0-closed,1-open]: this property contains the information about two eye state (open ,close)
 6.)reflections[0-none, 1-small, 2-big]: we annoated three reflection states based on the size of reflections (None,small and big reflections).
 7) Lighting Conditions[0-bad,1-good]:each image has two states(bad,good) based on the ammount of light during captuaring the videos.
-8) Sensor ID[01-RealSense,02-IDS,03-Aptina]: at this moment, the dataset contains the images captured by three different sensors(intel RealSense RS300 sensor with 640X480 resolution,IDS Imaging sensor with 1280X1024 resolution, and Aptina sensor with 752X480 resolution)
+8) Sensor ID[01-RealSense,02-IDS,03-Aptina]: at this moment, the dataset contains the images captured by three different sensors(intel RealSense RS300 sensor with 640X480 resolution,IDS Imaging sensor with 1280X1024 resolution, and Aptina sensor with 752X480 resolution).
